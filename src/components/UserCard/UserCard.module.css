@@ -1,0 +1,16 @@
+/* .userCardContainer{
+    border: 2px solid #ddd;
+    padding: 10px;
+     background-color: hsl(322, 43%, 65%); 
+} */
+.deleteBtn{
+    margin: 10px;
+}
+.errorText{
+    color:red;
+    font-weight:800;
+}
+
+
+
+

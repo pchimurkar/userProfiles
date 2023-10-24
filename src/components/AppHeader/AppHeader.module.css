@@ -1,0 +1,13 @@
+.linkStyle{
+    color: white;
+    text-decoration: none;
+}
+.linkStyle:hover{
+    text-decoration: underline;
+}
+.activeLink{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+}
